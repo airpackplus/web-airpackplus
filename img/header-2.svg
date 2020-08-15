@@ -1,0 +1,39 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 20 290.78741 153.07091" id="svg48" height="153.07091" width="270.78741" version="1.1">
+  <metadata id="metadata54">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs52"/>
+  
+  <text id="text8" y="59.590801" x="189.6236">
+    <tspan style="font-size:22.5px;font-family:Arial;fill:#a6ce38" id="tspan6" font-size="22.5000">AIR</tspan>
+  </text>
+  <path id="path10" style="fill:#00aeef;fill-rule:evenodd;stroke:#00aeef;stroke-width:0.21600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none" d="M 189.705,60.8233 V 68.93 h 63.8646 v -8.1067 z"/>
+  <path id="path12" style="fill:#00aeef;fill-rule:evenodd;stroke:#00aeef;stroke-width:0.21600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none" d="m 234.0267,44.5233 v 36.7156 h 8.1085 V 44.5233 Z"/>
+  <text id="text16" y="68.688301" x="193.6667">
+    <tspan style="font-size:10.5px;font-family:Arial;fill:#ffffff" id="tspan14" font-size="10.5000">PACK</tspan>
+  </text>
+  <text id="text20" y="75.7369" x="190.3842">
+    <tspan style="font-size:6px;font-family:Arial;fill:#ed1c24" id="tspan18" font-size="6.0000">Safety Solution</tspan>
+  </text>
+  
+    
+  
+  <text id="text24" y="104.5757" x="43.164001">
+    <tspan style="font-size:29.5px;font-family:Arial;fill:#a6ce38" id="tspan22" font-size="29.5000">AIR PACK </tspan>
+    <tspan style="font-size:29.5px;font-family:Arial;fill:#ed1c24" id="tspan23" font-size="29.5000">PLUS</tspan>
+  </text>
+  <path id="path26" style="fill:#00aeef;fill-rule:evenodd" d="m 43.1861,104.3303 v 3.0486 h 220.5002 v -2.9486 z"/>
+  <path id="path28" style="fill:#ed1c24;fill-rule:evenodd" d="m 98.3036,112.9303 v 3.8939 h 4.6727 v -3.8939 z"/>
+  <path id="path30" style="fill:#ed1c24;fill-rule:evenodd" d="m 103.8447,111.7868 v 5.0374 h 4.6799 v -5.0374 z"/>
+  <path id="path32" style="fill:#ed1c24;fill-rule:evenodd" d="m 109.376,110.8135 v 6.0107 h 4.6801 v -6.0107 z"/>
+  <text id="text36" y="118.9723" x="121.7285">
+    <tspan style="font-size:11px;font-family:Arial;fill:#a6ce38" id="tspan34" font-size="11.0000">Where Packing Moves...</tspan>
+  </text>
+  
+  <path id="path46" style="fill:#ed1c24;fill-rule:evenodd" d="m 114.9061,109.4485 v 7.3132 h 4.6772 v -7.3132 z"/>
+</svg>
