@@ -19,9 +19,26 @@ nav {
 #fourth-block {
   background:#f8f8f8;
 }
+#fifth-block {
+  background:#fff;
+}
 footer {
   background:#fff;
   padding:3.5rem 0;
+}
+
+#contact-form input {
+  width: 500px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+#contact-form textarea {
+  width: 500px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
 }
 @media screen and (max-width: 768px) {
   .right {
