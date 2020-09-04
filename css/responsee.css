@@ -318,7 +318,7 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
 }
 .slide-content {
   float:left;
-  width:calc(100% - 60px);  
+  width:calc(100%);  
 }
 .aside-nav.slide-nav {
   background:#1c3849;
@@ -371,6 +371,7 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
   bottom:0;
   width:60px;
   z-index:3;
+  height: 60px;
 }
 .active-slide-nav .slide-content {margin-left:-240px;}
 .active-slide-nav .slide-nav {margin-right:60px;}
@@ -378,7 +379,7 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
 .slide-to-left .slide-nav {
   left:0;
   margin-right:0; 
-  margin-left:-180px;    
+  margin-left:-240px;    
 }
 .slide-to-left .slide-nav-button {left:0;}
 .slide-to-left.active-slide-nav .slide-content {
