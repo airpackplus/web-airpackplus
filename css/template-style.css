@@ -40,6 +40,35 @@ footer {
   margin-bottom: 10px;
   padding: 5px;
 }
+
+.faint {
+  opacity: 0.5;
+}
+
+.full-height {
+  height: 300px;
+}
+
+.carousel-item {
+  background: #f0f0f0;
+  position: absolute;
+  width: 50%;
+  height: 300px;
+  left: 25%;
+  top: 100px;
+  z-index: 2;
+}
+.carousel-item .l-6 {
+  opacity: 1;
+}
+.carousel-item .product-desc {
+  padding: 20px;
+  padding-top: 50px;
+}
+.carousel-item .product-desc h3 {
+  color: red;
+}
+
 @media screen and (max-width: 768px) {
   .right {
   float:none;
